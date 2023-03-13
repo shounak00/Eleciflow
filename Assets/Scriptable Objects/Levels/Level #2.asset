@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2541918846aca042b94192d83fd800b, type: 3}
+  m_Name: Level #2
+  m_EditorClassIdentifier: 
+  boardWidth: 5
+  boardHeight: 5
+  biConnectorLeftDown: 0d000000
+  biConnectorRightDown: 0c000000
+  biConnectorUpLeft: 11000000
+  biConnectorUpRight: 10000000
+  boltDown: 
+  boltLeft: 
+  boltRight: 
+  boltUp: 12000000
+  bulbDown: 0b000000
+  bulbLeft: 
+  bulbRight: 
+  bulbUp: 
+  lineHorizontol: 
+  lineVertical: 
+  triConnectorRightLeftDown: 
+  triConnectorUpLeftDown: 
+  triConnectorUpRightDown: 
+  triConnectorUpRightLeft: 
+  quadConnector: 
